@@ -137,7 +137,8 @@ section img#mountains_front {
     display:none;
   }
   body {
-    min-width: 100vh;
+    min-width: 100vh; 
+    zoom: 0.8;
   }
   .sec{
     padding: 32px;
