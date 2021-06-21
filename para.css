@@ -133,12 +133,12 @@ section img#mountains_front {
 }
 
 @media (max-width:600px){
-  section img{
+/*   section img{
     display:none;
-  }
+  } */
   body {
     min-width: 100vh; 
-    zoom: 0.8;
+    zoom: 0.5;
   }
   .sec{
     padding: 32px;
